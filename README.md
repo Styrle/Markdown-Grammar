@@ -3,6 +3,8 @@ Markdown-Grammar
 This repository shows the world how to adopt and use markdown grammar within GitHub / Documentation
 
 
+# Table of contents
+
 
 # Heading 1
 
@@ -162,3 +164,35 @@ This repository shows the world how to adopt and use markdown grammar within Git
       <http://example.com/>
 
       HTML5 TAG:  <a href="https://github.com/Styrle">Visitmy portfolio</a>
+
+## Tables
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+    | Tables   |      Are      |  Cool |
+    |----------|:-------------:|------:|
+    | col 1 is |  left-aligned | $1600 |
+    | col 2 is |    centered   |   $12 |
+    | col 3 is | right-aligned |    $1 |
+
+## Ordered Lists
+
+1. First item
+2. Second item
+3. Third item
+    1. Indented item
+    2. Indented item
+4. Fourth item
+
+## Unordered Lists
+
+- First item
+- Second item
+- Third item
+    - Indented item
+    - Indented item
+- Fourth item
