@@ -163,7 +163,14 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
       <http://example.com/>
 
-      HTML5 TAG:  <a href="https://github.com/Styrle">Visitmy portfolio</a>
+      HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
+
+>## Blockquotes
+
+    Markdown:  > Nice Blockquotes
+
+    HTML5 TAG: <blockquote> Nice Blockquotes </blockquote>
+
 
 ## Tables
 
