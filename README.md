@@ -181,18 +181,46 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
 ## Ordered Lists
 
-1. First item
-2. Second item
-3. Third item
-    1. Indented item
-    2. Indented item
-4. Fourth item
+    Markdown:
+    1. First item
+    2. Second item
+    3. Third item
+        1. Indented item
+        2. Indented item
+    4. Fourth item
+
+    HTML5 TAGS:
+    <ol>
+      <li>First item</li>
+      <li>Second item</li>
+      <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+      </li>
+      <li>Fourth item</li>
+    </ol>
 
 ## Unordered Lists
 
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
+    Markdown:
+    - First item
+    - Second item
+    - Third item
+        - Indented item
+        - Indented item
+    - Fourth item
+
+    HTML5 TAGS:
+    <ul>
+      <li>First item</li>
+      <li>Second item</li>
+      <li>Third item
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+      </li>
+      <li>Fourth item</li>
+    </ul>
