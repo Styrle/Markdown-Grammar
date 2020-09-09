@@ -180,11 +180,36 @@ This repository shows the world how to adopt and use markdown grammar within Git
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+    Markdown:
     | Tables   |      Are      |  Cool |
     |----------|:-------------:|------:|
     | col 1 is |  left-aligned | $1600 |
     | col 2 is |    centered   |   $12 |
     | col 3 is | right-aligned |    $1 |
+
+    HTML TAGS:
+    <table>
+      <tr>
+        <th>Tables</th>
+        <th>Are</th>
+        <th>Cool</th>
+      </tr>
+      <tr>
+        <td>col 1 is</td>
+        <td>left-aligned</td>
+        <td>$1600</td>
+      </tr>
+      <tr>
+        <td>col 2 is</td>
+        <td>centered</td>
+        <td>$12</td>
+      </tr>
+      <tr>
+        <td>col 3 is</td>
+        <td>right-aligned</td>
+        <td>$1</td>
+      </tr>
+    </table>
 
 ## Ordered Lists
 
