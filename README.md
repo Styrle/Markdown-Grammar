@@ -3,8 +3,23 @@ Markdown-Grammar
 This repository shows the world how to adopt and use markdown grammar within GitHub / Documentation
 
 
-# Table of contents
+## Table of contents
+Headings  
+Paragraphs  
+Line Break  
+Italic  
+Bold  
+Bold and Italic  
+Strikethrough  
+Link  
+Blockquotes  
+Tables  
+Ordered Lists  
+Unordered Lists  
+Images  
+Video  
 
+## Headings
 
 # Heading 1
 
@@ -37,6 +52,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
     MARKDOWN: #### Heading 4
 
     HTML5 TAG:  <h4></h4>
+
 ##### Heading 5
 
     MARKDOWN: ##### Heading 5
@@ -256,3 +272,5 @@ This repository shows the world how to adopt and use markdown grammar within Git
       </li>
       <li>Fourth item</li>
     </ul>
+
+## Images
