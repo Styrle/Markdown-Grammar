@@ -1,6 +1,8 @@
 Markdown-Grammar
 =============
-This repository shows the world how to adopt and use markdown grammar within GitHub / Documentation
+
+This repository shows you how to use markdown so that you can create better documentation and reports
+
 
 
 ## Table of contents
@@ -111,11 +113,13 @@ Video
            First line with nothing after.
            And the next line.
 
+
 *Italic*
 
     Markdown: What is this *sideways text*.
 
     HTML5 TAG: What is this <em>sideways text</em>.
+
 
 *Italic Best Practices*
 
@@ -124,11 +128,13 @@ Video
 
     DON'T: What is this _sideways text_.
 
+
 **Bold**
 
     Markdown: That's a **bold statement**.
 
     HTML5 TAG: That's a <strong>bold statement</strong>.
+
 
 **Bold Best Practices**
 
@@ -152,12 +158,14 @@ Video
 
     HTML5 TAG: What is this <strong><em>sideways and bold text</em></strong>.
 
+
 ***Bold and Italic Best Practices***
 
     For compatibility sake we recommend using *** over ___
     DO: This is ***the right approach***.
 
     DON'T: This is ___not___.
+
 
 ~~Strikethrough~~
 
@@ -168,6 +176,7 @@ Video
                 OR
 
                 <s>Strikethrough text</s>
+
 
 [Links](https://github.com/Styrle)
 
@@ -181,6 +190,10 @@ Video
 
       HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
 
+
+
+
+
 ## Images Inline
 ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
 
@@ -189,6 +202,8 @@ Video
 
     HTML5 TAGS:    
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo">
+
+
 
 ## Images Reference
 ![Github logo][logo]
@@ -203,11 +218,14 @@ Video
     HTML5 TAGS:   
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  alt="Github logo" title="Github logo">
 
+
+
 ### Images Reference Best Practices
 
     DO: Add a line break between the alt text and the reference to the image
 
     DON'T: Put the alt text and image reference next to each other like the markdown text displays
+
 
 
 
@@ -257,6 +275,7 @@ Video
       </tr>
     </table>
 
+
 ## Ordered Lists
 
     Markdown:
@@ -279,6 +298,7 @@ Video
       </li>
       <li>Fourth item</li>
     </ol>
+
 
 ## Unordered Lists
 
