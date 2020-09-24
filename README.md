@@ -91,7 +91,7 @@ Video
 
 ## Line Break
 
-    Markdown: First line, add two spaces at the end  
+    Markdown: First line, add two spaces at the end [SPACE] [SPACE]    
               Oh hey a new line
 
     HTML5 TAG: First line, add two spaces at the end <br>
@@ -99,7 +99,7 @@ Video
 
 ### Line Break Best Practices
 
-    DO: First line with two spaces after.  
+    DO: First line with two spaces after.[SPACE] [SPACE]    
         And the next line.
 
         First line with the HTML tag after.<br>
@@ -202,6 +202,13 @@ Video
 
     HTML5 TAGS:   
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  alt="Github logo" title="Github logo">
+
+### Images Reference Best Practices
+
+    DO: Add a line break between the alt text and the reference to the image
+
+    DON'T: Put the alt text and image reference next to each other like the markdown text displays
+
 
 
 >## Blockquotes
