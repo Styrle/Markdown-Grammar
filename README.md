@@ -71,7 +71,7 @@ Video
 
     DON'T: #Write without a space between number signs and header content
 
-# Paragraphs
+## Paragraphs
 
     MARKDOWN: Paragraphs are so much easier in markdown
 
@@ -87,7 +87,7 @@ Video
 
         Hello world
 
-# Formatting
+## Formatting
 
 ## Line Break
 
@@ -181,6 +181,29 @@ Video
 
       HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
 
+## Images Inline
+![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
+
+    MARKDOWN:
+    ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
+
+    HTML5 TAGS:    
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo">
+
+## Images Reference
+![Github logo][logo]
+
+[logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Github logo"
+
+    MARKDOWN:
+    ![alt text][logo]
+
+    [logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 2"
+
+    HTML5 TAGS:   
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  alt="Github logo" title="Github logo">
+
+
 >## Blockquotes
 
     Markdown:  > Nice Blockquotes
@@ -272,5 +295,3 @@ Video
       </li>
       <li>Fourth item</li>
     </ul>
-
-## Images
