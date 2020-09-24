@@ -1,10 +1,25 @@
 Markdown-Grammar
 =============
-This repository shows the world how to adopt and use markdown grammar within GitHub / Documentation
+This repository shows you how to use markdown so that you can create better documentation and reports
 
 
-# Table of contents
+## Table of contents
+Headings  
+Paragraphs  
+Line Break  
+Italic  
+Bold  
+Bold and Italic  
+Strikethrough  
+Link  
+Blockquotes  
+Tables  
+Ordered Lists  
+Unordered Lists  
+Images  
+Video  
 
+## Headings
 
 # Heading 1
 
@@ -37,6 +52,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
     MARKDOWN: #### Heading 4
 
     HTML5 TAG:  <h4></h4>
+
 ##### Heading 5
 
     MARKDOWN: ##### Heading 5
@@ -55,7 +71,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
     DON'T: #Write without a space between number signs and header content
 
-# Paragraphs
+## Paragraphs
 
     MARKDOWN: Paragraphs are so much easier in markdown
 
@@ -71,11 +87,11 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
         Hello world
 
-# Formatting
+## Formatting
 
 ## Line Break
 
-    Markdown: First line, add two spaces at the end  
+    Markdown: First line, add two spaces at the end [SPACE] [SPACE]    
               Oh hey a new line
 
     HTML5 TAG: First line, add two spaces at the end <br>
@@ -83,7 +99,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
 ### Line Break Best Practices
 
-    DO: First line with two spaces after.  
+    DO: First line with two spaces after.[SPACE] [SPACE]    
         And the next line.
 
         First line with the HTML tag after.<br>
@@ -95,11 +111,13 @@ This repository shows the world how to adopt and use markdown grammar within Git
            First line with nothing after.
            And the next line.
 
+
 *Italic*
 
     Markdown: What is this *sideways text*.
 
     HTML5 TAG: What is this <em>sideways text</em>.
+
 
 *Italic Best Practices*
 
@@ -108,11 +126,13 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
     DON'T: What is this _sideways text_.
 
+
 **Bold**
 
     Markdown: That's a **bold statement**.
 
     HTML5 TAG: That's a <strong>bold statement</strong>.
+
 
 **Bold Best Practices**
 
@@ -136,12 +156,14 @@ This repository shows the world how to adopt and use markdown grammar within Git
 
     HTML5 TAG: What is this <strong><em>sideways and bold text</em></strong>.
 
+
 ***Bold and Italic Best Practices***
 
     For compatibility sake we recommend using *** over ___
     DO: This is ***the right approach***.
 
     DON'T: This is ___not___.
+
 
 ~~Strikethrough~~
 
@@ -152,6 +174,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
                 OR
 
                 <s>Strikethrough text</s>
+
 
 [Links](https://github.com/Styrle)
 
@@ -164,6 +187,38 @@ This repository shows the world how to adopt and use markdown grammar within Git
       <http://example.com/>
 
       HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
+
+
+## Images Inline
+![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
+
+    MARKDOWN:
+    ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
+
+    HTML5 TAGS:    
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo">
+
+
+## Images Reference
+![Github logo][logo]
+
+[logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Github logo"
+
+    MARKDOWN:
+    ![alt text][logo]
+
+    [logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 2"
+
+    HTML5 TAGS:   
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  alt="Github logo" title="Github logo">
+
+
+### Images Reference Best Practices
+
+    DO: Add a line break between the alt text and the reference to the image
+
+    DON'T: Put the alt text and image reference next to each other like the markdown text displays
+
 
 >## Blockquotes
 
@@ -211,6 +266,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
       </tr>
     </table>
 
+
 ## Ordered Lists
 
     Markdown:
@@ -233,6 +289,7 @@ This repository shows the world how to adopt and use markdown grammar within Git
       </li>
       <li>Fourth item</li>
     </ol>
+
 
 ## Unordered Lists
 
