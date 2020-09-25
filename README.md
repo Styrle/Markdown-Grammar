@@ -29,7 +29,7 @@ Video
 
     ===========
 
-    HTML5 TAG:  <h1></h1>
+    HTML5 TAG:  <h1>Heading 1</h1>
 
 ## Heading 2
 
@@ -39,31 +39,31 @@ Video
 
     ------------
 
-    HTML5 TAG:  <h2></h2>
+    HTML5 TAG:  <h2>Heading 2</h2>
 
 ### Heading 3
 
     MARKDOWN: ### Heading 3
 
-    HTML5 TAG:  <h3></h3>
+    HTML5 TAG:  <h3>Heading 3</h3>
 
 #### Heading 4
 
     MARKDOWN: #### Heading 4
 
-    HTML5 TAG:  <h4></h4>
+    HTML5 TAG:  <h4>Heading 4</h4>
 
 ##### Heading 5
 
     MARKDOWN: ##### Heading 5
 
-    HTML5 TAG:  <h5></h5>
+    HTML5 TAG:  <h5>Heading 5</h5>
 
 ###### Heading 6
 
     MARKDOWN: ###### Heading 6
 
-    HTML5 TAG:  <h6></h6>
+    HTML5 TAG:  <h6>Heading 6</h6>
 
 ## Heading Best Practices
 
