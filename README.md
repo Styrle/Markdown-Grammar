@@ -7,19 +7,20 @@ This repository shows you how to use markdown so that you can create better docu
 
 ## Table of contents
 [Headings](#headings)  
-Paragraphs  
-Line Break  
-Italic  
-Bold  
-Bold and Italic  
-Strikethrough  
-Link  
-Blockquotes  
-Tables  
-Ordered Lists  
-Unordered Lists  
-Images  
-Video  
+[Paragraphs](#Paragraphs)  
+[Line Break](#line-break)  
+[Italic](#italic)  
+[Bold](#bold)  
+[Bold and Italic](#bold-italic)  
+[Strikethrough](#Strikethrough)  
+[Link](#link)  
+[Images](#images)  
+[Video](#)  
+[Blockquotes](#blockquote)  
+[Tables](#tables)  
+[Ordered Lists](#ordered-list)  
+[Unordered Lists](#unordered-list)   
+
 
 ## [Headings](headings)
 
@@ -73,7 +74,7 @@ Video
 
     DON'T: #Write without a space between number signs and header content
 
-## Paragraphs
+## [Paragraphs](Paragraphs)
 
     MARKDOWN: Paragraphs are so much easier in markdown
 
@@ -91,7 +92,7 @@ Video
 
 ## Formatting
 
-## Line Break
+## [Line Break](line-break)
 
     Markdown: First line, add two spaces at the end [SPACE] [SPACE]    
               Oh hey a new line
@@ -114,7 +115,7 @@ Video
            And the next line.
 
 
-*Italic*
+[*Italic*](italic)
 
     Markdown: What is this *sideways text*.
 
@@ -129,14 +130,14 @@ Video
     DON'T: What is this _sideways text_.
 
 
-**Bold**
+[**Bold**](bold)
 
     Markdown: That's a **bold statement**.
 
     HTML5 TAG: That's a <strong>bold statement</strong>.
 
 
-**Bold Best Practices**
+##  **Bold Best Practices**
 
       For compatibility sake we recommend using ** over __
       DO: That's a **bold statement**.
@@ -144,7 +145,7 @@ Video
       DON'T: That's a __bold statement__.
 
 
-***Bold and Italic***
+##  [***Bold and Italic***](bold-italic)
 
     Markdown: What is this ***sideways and bold text***.
 
@@ -159,7 +160,7 @@ Video
     HTML5 TAG: What is this <strong><em>sideways and bold text</em></strong>.
 
 
-***Bold and Italic Best Practices***
+##  ***Bold and Italic Best Practices***
 
     For compatibility sake we recommend using *** over ___
     DO: This is ***the right approach***.
@@ -167,7 +168,7 @@ Video
     DON'T: This is ___not___.
 
 
-~~Strikethrough~~
+##  [~~Strikethrough~~](Strikethrough)
 
     Markdown: ~~Strikethrough text~~
 
@@ -178,7 +179,9 @@ Video
                 <s>Strikethrough text</s>
 
 
-[Links](https://github.com/Styrle)
+##  [Links](link)
+
+[Example](https://github.com/Styrle)
 
       Markdown: [Named Link](http://www.google.fr/ "Named link title")
 
@@ -191,8 +194,7 @@ Video
       HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
 
 
-
-
+## [Images](images)  
 
 ## Images Inline
 ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
@@ -228,15 +230,15 @@ Video
 
 
 
+>## [Blockquotes](blockquote)
 
->## Blockquotes
 
     Markdown:  > Nice Blockquotes
 
     HTML5 TAG: <blockquote> Nice Blockquotes </blockquote>
 
 
-## Tables
+## [Tables](tables)
 
 | Tables   |      Are      |  Cool |
 |----------|:-------------:|------:|
@@ -276,7 +278,7 @@ Video
     </table>
 
 
-## Ordered Lists
+## [Ordered Lists](ordered-list)
 
     Markdown:
     1. First item
@@ -300,7 +302,7 @@ Video
     </ol>
 
 
-## Unordered Lists
+## [Unordered Lists](unordered-list)
 
     Markdown:
     - First item
