@@ -4,7 +4,7 @@ This repository shows you how to use markdown so that you can create better docu
 
 
 ## Table of contents
-Headings  
+[Headings](#headings)  
 Paragraphs  
 Line Break  
 Italic  
@@ -19,7 +19,7 @@ Unordered Lists
 Images  
 Video  
 
-## Headings
+## [Headings](headings)
 
 # Heading 1
 
