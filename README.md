@@ -1,6 +1,8 @@
 Markdown-Grammar
 =============
+
 This repository shows you how to use markdown so that you can create better documentation and reports
+
 
 
 ## Table of contents
@@ -191,7 +193,9 @@ This repository shows you how to use markdown so that you can create better docu
 
       HTML5 TAG:  <a href="https://github.com/Styrle">Visit my portfolio</a>
 
+
 ## [Images](images)  
+
 ## Images Inline
 ![alt text](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Logo Title Text 1")
 
@@ -200,6 +204,7 @@ This repository shows you how to use markdown so that you can create better docu
 
     HTML5 TAGS:    
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo">
+
 
 
 ## Images Reference
@@ -216,6 +221,7 @@ This repository shows you how to use markdown so that you can create better docu
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  alt="Github logo" title="Github logo">
 
 
+
 ### Images Reference Best Practices
 
     DO: Add a line break between the alt text and the reference to the image
@@ -223,7 +229,9 @@ This repository shows you how to use markdown so that you can create better docu
     DON'T: Put the alt text and image reference next to each other like the markdown text displays
 
 
+
 >## [Blockquotes](blockquote)
+
 
     Markdown:  > Nice Blockquotes
 
