@@ -15,7 +15,6 @@ This repository shows you how to use markdown so that you can create better docu
 [Strikethrough](#Strikethrough)  
 [Link](#link)  
 [Images](#images)  
-[Video](#)  
 [Blockquotes](#blockquote)  
 [Tables](#tables)  
 [Ordered Lists](#ordered-list)  
@@ -115,7 +114,8 @@ This repository shows you how to use markdown so that you can create better docu
            And the next line.
 
 
-[*Italic*](italic)
+## [Italic](italic)  
+### *Example*  
 
     Markdown: What is this *sideways text*.
 
@@ -130,7 +130,8 @@ This repository shows you how to use markdown so that you can create better docu
     DON'T: What is this _sideways text_.
 
 
-[**Bold**](bold)
+ ## [Bold](bold)
+   **Example**  
 
     Markdown: That's a **bold statement**.
 
@@ -145,7 +146,8 @@ This repository shows you how to use markdown so that you can create better docu
       DON'T: That's a __bold statement__.
 
 
-##  [***Bold and Italic***](bold-italic)
+##  [Bold and Italic](bold-italic)
+  ***Example***  
 
     Markdown: What is this ***sideways and bold text***.
 
@@ -230,8 +232,8 @@ This repository shows you how to use markdown so that you can create better docu
 
 
 
->## [Blockquotes](blockquote)
-
+## [Blockquotes](blockquote)
+>## Example
 
     Markdown:  > Nice Blockquotes
 
