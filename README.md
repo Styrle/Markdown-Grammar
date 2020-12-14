@@ -146,7 +146,7 @@ This repository shows you how to use markdown so that you can create better docu
       DON'T: That's a __bold statement__.
 
 
-##  [Bold and Italic](boldItalic)
+## [Bold and Italic](boldItalic)
   ***Example***  
 
     Markdown: What is this ***sideways and bold text***.
