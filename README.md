@@ -17,8 +17,8 @@ This repository shows you how to use markdown so that you can create better docu
 [Images](#images)  
 [Blockquotes](#blockquote)  
 [Tables](#tables)  
-[Ordered Lists](#ordered-list)  
-[Unordered Lists](#unordered-list)   
+[Ordered Lists](#orderedl)  
+[Unordered Lists](#unorderedl)   
 
 
 ## [Headings](headings)
@@ -280,7 +280,7 @@ This repository shows you how to use markdown so that you can create better docu
     </table>
 
 
-## [Ordered Lists](ordered-list)
+## [Ordered Lists](orderedl)
 
     Markdown:
     1. First item
@@ -304,7 +304,7 @@ This repository shows you how to use markdown so that you can create better docu
     </ol>
 
 
-## [Unordered Lists](unordered-list)
+## [Unordered Lists](unorderedl)
 
     Markdown:
     - First item
