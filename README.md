@@ -11,8 +11,8 @@ This repository shows you how to use markdown so that you can create better docu
 [Line Break](#line-break)  
 [Italic](#italic)  
 [Bold](#bold)  
-[Bold and Italic](#bold-italic)  
-[Strikethrough](#Strikethrough)  
+[Bold and Italic](#boldItalic)  
+[Strikethrough](#strikethrough)  
 [Link](#link)  
 [Images](#images)  
 [Blockquotes](#blockquote)  
@@ -146,7 +146,7 @@ This repository shows you how to use markdown so that you can create better docu
       DON'T: That's a __bold statement__.
 
 
-##  [Bold and Italic](bold-italic)
+##  [Bold and Italic](boldItalic)
   ***Example***  
 
     Markdown: What is this ***sideways and bold text***.
@@ -170,7 +170,7 @@ This repository shows you how to use markdown so that you can create better docu
     DON'T: This is ___not___.
 
 
-##  [~~Strikethrough~~](Strikethrough)
+##  [~~Strikethrough~~](strikethrough)
 
     Markdown: ~~Strikethrough text~~
 
