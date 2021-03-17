@@ -7,18 +7,18 @@ This repository shows you how to use markdown so that you can create better docu
 
 ## Table of contents
 [Headings](#headings)  
-[Paragraphs](#Paragraphs)  
+[Paragraphs](#paragraphs)  
 [Line Break](#line-break)  
 [Italic](#italic)  
 [Bold](#bold)  
-[Bold and Italic](#boldItalic)  
+[Bold and Italic](#bolditalics)  
 [Strikethrough](#strikethrough)  
-[Link](#link)  
+[Link](#links)  
 [Images](#images)  
-[Blockquotes](#blockquote)  
+[Blockquotes](#blockquotes)  
 [Tables](#tables)  
-[Ordered Lists](#orderedl)  
-[Unordered Lists](#unorderedl)   
+[Ordered Lists](#ordered)  
+[Unordered Lists](#unordered)   
 
 
 ## [Headings](headings)
@@ -73,7 +73,7 @@ This repository shows you how to use markdown so that you can create better docu
 
     DON'T: #Write without a space between number signs and header content
 
-## [Paragraphs](Paragraphs)
+## [Paragraphs](paragraphs)
 
     MARKDOWN: Paragraphs are so much easier in markdown
 
@@ -146,7 +146,7 @@ This repository shows you how to use markdown so that you can create better docu
       DON'T: That's a __bold statement__.
 
 
-## [Bold and Italic](boldItalic)
+## [Bold and Italic](bolditalics)
   ***Example***  
 
     Markdown: What is this ***sideways and bold text***.
@@ -181,7 +181,7 @@ This repository shows you how to use markdown so that you can create better docu
                 <s>Strikethrough text</s>
 
 
-##  [Links](link)
+##  [Links](links)
 
 [Example](https://github.com/Styrle)
 
@@ -232,7 +232,7 @@ This repository shows you how to use markdown so that you can create better docu
 
 
 
-## [Blockquotes](blockquote)
+## [Blockquotes](blockquotes)
 >## Example
 
     Markdown:  > Nice Blockquotes
@@ -280,7 +280,7 @@ This repository shows you how to use markdown so that you can create better docu
     </table>
 
 
-## [Ordered Lists](orderedl)
+## [Ordered Lists](ordered)
 
     Markdown:
     1. First item
@@ -304,7 +304,7 @@ This repository shows you how to use markdown so that you can create better docu
     </ol>
 
 
-## [Unordered Lists](unorderedl)
+## [Unordered Lists](unordered)
 
     Markdown:
     - First item
