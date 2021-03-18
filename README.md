@@ -11,14 +11,14 @@ This repository shows you how to use markdown so that you can create better docu
 [Line Break](#line-break)  
 [Italic](#italic)  
 [Bold](#bold)  
-[Bold and Italic](#bolditalics)  
+[Bold and Italic](#bold-and-italic)  
 [Strikethrough](#strikethrough)  
 [Link](#links)  
 [Images](#images)  
 [Blockquotes](#blockquotes)  
 [Tables](#tables)  
-[Ordered Lists](#ordered)  
-[Unordered Lists](#unordered)   
+[Ordered Lists](#ordered-lists)  
+[Unordered Lists](#unordered-lists)   
 
 
 ## [Headings](headings)
@@ -146,7 +146,7 @@ This repository shows you how to use markdown so that you can create better docu
       DON'T: That's a __bold statement__.
 
 
-## [Bold and Italic](bolditalics)
+## [Bold and Italic](bold-and-italic)
   ***Example***  
 
     Markdown: What is this ***sideways and bold text***.
@@ -280,7 +280,7 @@ This repository shows you how to use markdown so that you can create better docu
     </table>
 
 
-## [Ordered Lists](ordered)
+## [Ordered Lists](#ordered-lists)
 
     Markdown:
     1. First item
@@ -304,7 +304,7 @@ This repository shows you how to use markdown so that you can create better docu
     </ol>
 
 
-## [Unordered Lists](unordered)
+## [Unordered Lists](unordered-lists)
 
     Markdown:
     - First item
